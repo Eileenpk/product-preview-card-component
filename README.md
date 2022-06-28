@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![screen shot of full screen webpage](https://github.com/Eileenpk/faq-accordion-card/blob/main/images/Screenshot%202022-06-26%20155112.png)
-![screen shot of mobile webpage](https://github.com/Eileenpk/faq-accordion-card/blob/main/images/Screenshot-of-mobile-site.png)
+![screen shot of full screen webpage](https://github.com/Eileenpk/product-preview-card-component/blob/main/images/ScreenShot%20full%20view.png)
+![screen shot of mobile webpage](https://github.com/Eileenpk/product-preview-card-component/blob/main/images/ScreenShot%20mobile%20view.png)
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Eileenpk/faq-accordion-card)
-- Live Site URL: [live site](https://eileenpk.github.io/faq-accordion-card/)
+- Solution URL: [GitHub](https://github.com/Eileenpk/product-preview-card-component)
+- Live Site URL: [live site](https://eileenpk.github.io/product-preview-card-component/)
 
 ### Built with
 
